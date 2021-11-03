@@ -1,3 +1,3 @@
 A more detailed read me file is coming soon but in the mean time
 all the Java files are well commented in Javadoc and regular 
-in line comments. Most lines is explained with one or two comments.
+in line comments.
